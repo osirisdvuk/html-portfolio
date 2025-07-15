@@ -1,0 +1,28 @@
+
+h1 {
+    font-family: serif;
+    font-style: italic;
+}
+
+h2 {
+    font-family: serif;
+    font-style: italic;
+    font-size: large;
+}
+p {
+    font-family: serif;
+    font-style: italic;
+    line-height: 1.6;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#footer {
+    font-family: serif;
+    font-style: italic;
+}
+
+.nav-item {
+    font-family: serif;
+    font-style: italic;
+}
