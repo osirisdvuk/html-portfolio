@@ -18,11 +18,17 @@ p {
 }
 
 #footer {
+    font-weight: bold;
     font-family: serif;
     font-style: italic;
 }
 
 .nav-item {
+    font-family: serif;
+    font-style: italic;
+}
+
+.navbar-brand {
     font-family: serif;
     font-style: italic;
 }
